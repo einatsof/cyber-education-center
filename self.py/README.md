@@ -1,3 +1,5 @@
+https://campus.gov.il/course/course-v1-cs-gov-cs-selfpy101/
+
 ## נושאי הקורס
 
 
