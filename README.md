@@ -6,4 +6,4 @@ https://campus.gov.il/academic_institution/israel-national-cyber-directorate/
 
 ### Completed Courses ###
 * [Self.py](https://github.com/einatsof/cyber-education-center/tree/main/self.py)
-* [Nexy.py](https://campus.gov.il/course/cs-gov-cs-nextpy102/)
+* [Nexy.py](https://github.com/einatsof/cyber-education-center/tree/main/next.py)
