@@ -17,3 +17,9 @@ https://campus.gov.il/academic_institution/israel-national-cyber-directorate/
   * Working with files
 
 * [Nexy.py](https://github.com/einatsof/cyber-education-center/tree/main/next.py)
+  * One-Liners
+  * Object Oriented Programming
+  * Exceptions
+  * Generators
+  * Iterators
+  * Modules
